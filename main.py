@@ -1,5 +1,3 @@
-print("Hello word")
+print("Hello world desde auxiliar")
 
-nombre = input("Ingrese su nombre: ")
 
-print(f"Hola {nombre}")
