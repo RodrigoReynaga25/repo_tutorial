@@ -1,5 +1,1 @@
-print("Hello word")
-
-nombre = input("Ingrese su nombre: ")
-
-print(f"Hola {nombre}")
+print("Hello word desde main")
